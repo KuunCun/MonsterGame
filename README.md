@@ -1,7 +1,7 @@
 # Monster Game
 
 This is a little monster game made with Python and PyGame.
-I made it on a whim while helping someone whom a python newbie.
+I made it on a whim while helping someone whom is a python newbie.
 
 **WARNING:** *Python 3.8 or newer* required!
 
